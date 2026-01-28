@@ -1,10 +1,9 @@
 # Everyday AI Productivity Interface for Even Realities G1 Smart Glasses  
 
-Asiakas*: Santeri Suominen
-
+Asiakas: Santeri Suominen
 Päivämäärä: 12.1.2026
-
 Osallistujat: Simona Callegari (ohjaaja), Patrick Grahn, Sami Horttanainen (scrum master), Veeti Martinmäki, Sara Abdullahi Yalahow (kirjuri), Matias Palmroth, Vesa Vainio
+
 
 
 **Projektin tavoite**
